@@ -4,6 +4,8 @@ gxSideMenu
 jQuery responsive side menu plugin, which triggers hover, click and swipe on mobile/tablet devices.
 Included 3 themes: normal (black), light, blue
 
+DEMO: http://plugins.gexasoftware.hu/sidemenu/
+
 Used moduls:
 - iScroll 5.13 plugin (https://github.com/cubiq/iscroll)
 - jQuery 1.9 framework
